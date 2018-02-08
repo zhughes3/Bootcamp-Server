@@ -22,6 +22,6 @@ To do so, run this shell command:
 $ ifconfig | grep inet
 ```
 It will output the following text:
-[Save the IP address highlighted in red](https://i.imgur.com/8dnVha0.png)
+![Save the IP address highlighted in red](https://i.imgur.com/8dnVha0.png)
 Then tell the devices to go to: [http://<PUBLIC_IP_ADDRESS>:5000/](http://<PUBLIC_IP_ADDRESS>:5000)
 
