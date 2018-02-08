@@ -1,6 +1,16 @@
-# server_with_user_auth
+# Bootcamp-Server
 
 ## Want to use this project?
+### Basics
+1. Fork/Clone
+2. Activate a virtual environment
+```sh
+$ python3 -m venv env
+```
+3. Install dependencies
+```sh
+pip install -r requirements.txt
+```
 
 
 ### Run the Application
