@@ -23,7 +23,7 @@ Access the application at the address [http://localhost:5000/](http://localhost:
 
 ### Run the Application (Serve publicly on your network)
 ```sh
-$ python manage.py -h 0.0.0.0
+$ python manage.py runserver -h 0.0.0.0
 ```
 Access the application at the address [http://0.0.0.0:5000/](http://localhost:5000/)
 To allow other devices on your network to find the server, you must first find your public IP address.
